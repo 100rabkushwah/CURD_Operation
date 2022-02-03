@@ -1,0 +1,9 @@
+How to run CURD_operation
+step1:
+creat a database and table of name student and student_detail having field student_roll(int, primary key) and student_name(varchar)
+
+step2:
+go to connection.py file and make sure your database configuration(passward, username, local-host,etc.)
+
+step3:
+commant to run: open terminal by pressing key alt+f12 then type "python manage.py runserver"
